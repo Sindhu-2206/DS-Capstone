@@ -1,5 +1,7 @@
 Title :  AI-Powered Supply Chain Resilience Index (SCRI) for E-Commerce and Retail
+
 Diagram link:
+
 Advanced AI/ML Model Diagram:-
 https://drive.google.com/file/d/10VUOpaGj2A0A4WAmvpD4jKF7B-e1Le3r/view?usp=sharing 
 
