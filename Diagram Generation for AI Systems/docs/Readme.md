@@ -10,7 +10,10 @@ Diagram link: https://share.balsamiq.com/c/kNYhGuU55xZWgpxYf3jiTQ.jpg
 
 Team: Chain Vision
 Sai Kamal Makthala(16354662): Led Transformer-based model development and optimization. (DL Engineer) 
-Likhitha Neerati(16359266): Designed explainability framework using LIME and SHAP. (AI Engineer) 
-Sindhu Mukkara(16359054): Developed data ingestion pipeline and dashboard UI. (UI Developer) 
+
+Likhitha Neerati(16359266): Designed explainability framework using LIME and SHAP. (AI Engineer)
+
+Sindhu Mukkara(16359054): Developed data ingestion pipeline and dashboard UI. (UI Developer)
+
 Lalitha Rani Palakaluri(16359329): Focused on API integration and deployment using Flask/Streamlit.(Data Engineer)
 
