@@ -1,0 +1,18 @@
+Streamlit-with-Retrieval-Augmented-Generation-RAG
+Hands-On Steps
+
+Step 1: Environment Setup (5 Minutes)
+
+Ensure all required Python packages are installed. Load students' project-specific datasets, ensuring they are in a structured format (e.g., CSV, JSON, or text files). If datasets are not available, students should generate sample data from their project domain. Preprocess the dataset, ensuring it is clean and ready for indexing.
+
+Step 2: Implement the Retrieval-Augmented Generation Pipeline (15 Minutes)
+
+Load a Sentence Transformer model to generate embeddings for their dataset. Convert textual data into dense vector representations for efficient similarity searches. Build a FAISS index to enable fast retrieval of relevant information. Implement a retrieval function that: Accepts a user query. Converts the query into an embedding vector. Searches the indexed dataset for the most relevant responses. Test the retrieval pipeline before integrating it with Streamlit.
+
+Step 3: Build the Streamlit Interface (15 Minutes)
+
+Design a user-friendly Streamlit interface that includes: A text input box for users to enter their queries. A search button to trigger retrieval. A results display area to show retrieved project-specific responses. Optional interactive elements, such as: Dropdown menus for filtering responses based on categories. Checkboxes for customizing search parameters. Buttons to explore additional related content. Ensure the interface is responsive and functional before deployment.
+
+Step 4: Deploy the Application Using ngrok (10 Minutes)
+
+Run the Streamlit application locally to confirm its functionality. Authenticate ngrok using the provided authentication token. Ensure that no other ngrok sessions are running to avoid conflicts. Generate a public URL using ngrok to share and test the application externally. Distribute the public URL to peers for real-time feedback and improvements.
